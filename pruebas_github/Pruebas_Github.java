@@ -10,7 +10,7 @@ public class Pruebas_Github {
         System.out.println("Remote");
         System.out.println("Commit desde local");
         System.out.println("Segundo commit desde local");
-
+        System.out.println("Prueba de pull");
     }
     
 }
